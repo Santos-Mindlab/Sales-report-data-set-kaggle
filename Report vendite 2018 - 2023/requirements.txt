@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+ipykernel
+numpy
+seaborn
+matplotlib
+kagglehub
