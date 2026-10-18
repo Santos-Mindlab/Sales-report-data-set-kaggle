@@ -1,1 +1,0 @@
-In the event that the kaggle directory is removed, the required CSV dataset can be found in this folder
